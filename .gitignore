@@ -1,0 +1,7 @@
+build
+.gradle
+.idea
+.docker-data
+.DS_Store
+venv
+*.pyc
